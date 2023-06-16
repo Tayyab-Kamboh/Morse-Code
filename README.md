@@ -109,6 +109,13 @@ Thats it now you can execute your program on terminal:)
 - Github: [@TayyabKM](https://github.com/TayyabKM)
 - Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
 - Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
+
+<a name="author"></a>
+👤 **Salma Ibrahim**
+
+- GitHub: [@Saluumaa](https://github.com/saluumaa)
+- Twitter: [@SalmaHIbrahim20](https://twitter.com/SalmaHIbrahim20)
+- LinkedIn: [Salma ibrahim](https://www.linkedin.com/in/salma-ibrahim-78bb5a14a/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
