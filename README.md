@@ -104,7 +104,11 @@ Thats it now you can execute your program on terminal:)
 
 ## 👥 Authors
  <a name="author"></a>
+👤 **TayyabKM**
 
+- Github: [@TayyabKM](https://github.com/TayyabKM)
+- Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
+- Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
